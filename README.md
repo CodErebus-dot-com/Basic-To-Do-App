@@ -1,3 +1,30 @@
+Link to the web app: https://a-basic-todo-app.web.app
+
+### `1. Todo App`
+![Screenshot (1)](https://user-images.githubusercontent.com/85679479/123524662-7692fa80-d6e9-11eb-9fa9-e0444ea7331d.png)
+
+### `2. Snackbar from Notistack`
+![Screenshot (3)](https://user-images.githubusercontent.com/85679479/123524222-5e6dac00-d6e6-11eb-9805-72d270b07fca.png)
+
+### `3. All, Completed, Uncompleted Filters`
+![Screenshot (4)](https://user-images.githubusercontent.com/85679479/123524223-5f9ed900-d6e6-11eb-904e-27c1ad753ac2.png)
+
+### `4. Add/Change User Name`
+![Screenshot (5)](https://user-images.githubusercontent.com/85679479/123524224-60376f80-d6e6-11eb-82c4-d47dcffb7539.png)
+
+
+Check out Dev Ed's YT vid for this todo app: https://www.youtube.com/watch?v=Ttf3CEsEwMQ&t=4s. Todo apps are a great way to get started with React and Dev Ed does a great job with not just the project but also explaining every required React concept for this app.
+
+### Features of this simple todo app:
+1. You can add todo lists just as the name suggests
+2. You can edit, mark complete and delete the todos
+3. You can filter out the todos based on completedness
+4. The app keeps a track of number of completed/uncompleted and total number of todos
+5. You start of as a GUEST but can add your name by clicking on the previous name
+6. The small 'clear all' text button will clear all the todos
+7. Finally, the local storage ensures that the user's name and todo's are not lost with refresh
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
