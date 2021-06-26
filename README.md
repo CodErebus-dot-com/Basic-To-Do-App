@@ -22,7 +22,8 @@ Check out Dev Ed's YT vid for this todo app: https://www.youtube.com/watch?v=Ttf
 4. The app keeps a track of number of completed/uncompleted and total number of todos
 5. You start of as a GUEST but can add your name by clicking on the previous name
 6. The small 'clear all' text button will clear all the todos
-7. Finally, the local storage ensures that the user's name and todo's are not lost with refresh
+7. Snackbar from Notistack has been used to make sure that the user is not allowed to add an empty todo
+8. Finally, the local storage ensures that the user's name and todo's are not lost with refresh
 
 
 # Getting Started with Create React App
